@@ -18,3 +18,32 @@ For now, you won't find the historical  background nor the mathematical insides 
 **Acknowledgments**
 
 Thank you so much to PhD Pablo Arbelaéz Escalante for providing the knowledge I'm presenting on this course along many university courses
+
+# The courses topics and links
+
+- Introduction to CV (https://github.com/SantiagoMartinezHernandez/ComputerVision/blob/main/Introduction.ipynb)
+- Clustering and representation ()
+- Classification and Caltech 101 ()
+- Deep learning
+  - Convolutional neural networks ()
+  - Transformers ()
+  - Visual transformers ()
+- Segmentation
+  - Object proposals RCNN ()
+  - X-RCNN + DeepLab ()
+  - X-former (Swin, mask2Former) ()
+  - Instance segmentation ()
+  - Panoptic segmentation
+    - Pre-transformers ()
+    - Post-transformers ()
+- Foundations of generation ()
+  - Auto-encoders (VAEs) ()
+  - Generative adversarial networks (GAN) ()
+  - Difussion models ()
+- Image formation ()
+- Camera calibration ()
+- Alignment ()
+- Video + opticalFlow ()
+- Multiview stereo ()
+- Structure from motion ()
+- NeRF ()
